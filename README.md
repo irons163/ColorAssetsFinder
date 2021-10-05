@@ -2,15 +2,14 @@
 
 # ColorAssetsFinder 
 
-- ColorAssetsFinder can help you find particuler color assets easily by hex color code.
+- ColorAssetsFinder can help you find particular color assets easily by hex color code.
 
 ## Features
-- Find particuler color assets in Assets.xcassets by hex color code(ex: #FFFFFF).
+- Find particular color assets in Assets.xcassets by hex color code(ex: #FFFFFF).
 - Find colors in dark mode or light mode.
 
 ## Screenshots
-| Result | |
-| ![Result](./ScreenShots/demo3.png) | |
+![Result](./ScreenShots/demo3.png)
 
 ## What the difficulties that developers would face without using this project?
 - Using color assets became necessary while developing dark mode.
